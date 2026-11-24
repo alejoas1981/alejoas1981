@@ -2,7 +2,7 @@
 
 **Senior Software Engineer | JavaScript | Software Architecture | AI-Assisted Engineering**
 
-Based in Torrevieja, Alicante, Spain 🇪🇸
+Based in Spain 🇪🇸
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=flat-square)](https://www.linkedin.com/in/savchenkoalexey/)
 [![GitHub](https://img.shields.io/badge/GitHub-alejoas1981-181717?style=flat-square&logo=github)](https://github.com/alejoas1981)
